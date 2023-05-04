@@ -9,7 +9,7 @@ const envs = require('./src/utils/envs')
 /** @type { import('next').NextConfig } */
 const nextConfig = {
   // https://nextjs.org/docs/api-reference/next.config.js/react-strict-mode
-  reactStrictMode: true,
+  reactStrictMode: false,
 
   // https://nextjs.org/docs/api-reference/next.config.js/custom-page-extensions#including-non-page-files-in-the-pages-directory
   pageExtensions: ['page.tsx', `page-${envs.NEXT_PUBLIC_DATA_FETCHING}.tsx`],
