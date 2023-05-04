@@ -12,7 +12,7 @@ npm install
 npm install -g @commercelayer/cli
 
 commercelayer applications:login \
-  -i Oy5F2TbPYhOZsxy1tQd9ZVZ... \
+  -i ... \
   -s 1ZHNJUgn_1lh1mel06gGDqa... \
   -o my-awesome-organization \
   -a admin
