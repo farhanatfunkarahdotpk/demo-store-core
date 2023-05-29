@@ -48,3 +48,10 @@ To get started please refer to the [documentation](https://github.com/commercela
 ## License
 
 This repository is published under the [MIT](LICENSE) license.
+
+
+commercelayer applications:login \
+  --clientId e-HCkzIkNtMKL9lx8stoh2DlBc4dISg0jClIg5LRRVw \
+  --clientSecret oIO-IQP-ckEWjfnJ4aDdagXp5hqjZgrmW0e3q5KtyH4 \
+  --organization funkarahdotpkw \
+  --alias cli-admin
